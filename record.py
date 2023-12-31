@@ -41,8 +41,9 @@ class record:
             logging.info(text)
             if is_match_GenshinImpact(text):
                 logging.info("即将启动原神")
+                path = r"D:\原神\Genshin Impact\Genshin Impact Game\YuanShen.exe"
                 play_music()
-                game_time = open_ys()
+                game_time = open_ys(path)
                 hour, minute, second = time_translate(game_time)
                 logging.info(f"本次游戏时间为{hour}h {minute}m {second}s")
                 logging.info("结束")
