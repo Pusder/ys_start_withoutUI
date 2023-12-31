@@ -12,10 +12,8 @@
 
 （启动音默认是Ciallo，music文件夹里还提供了另外一个（Ciallo，请看我的0721），想改启动音的可以先把提示音丢进music文件夹里，再在play_music.py文件里修改path）
 
-
-
 链接：
 
-项目中所用到的语音识别模型下载地址：https://openaipublic.azureedge.net/main/whisper/models/9ecf779972d90ba49c06d968637d720dd632c55bbf19d441fb42bf17a411e794/small.pt
+1.项目中所用到的语音识别模型下载地址：https://openaipublic.azureedge.net/main/whisper/models/9ecf779972d90ba49c06d968637d720dd632c55bbf19d441fb42bf17a411e794/small.pt
 
-项目环境配置参考视频：https://www.bilibili.com/video/BV1a94y1H7ce/?spm_id_from=333.337.search-card.all.click&vd_source=d410e9caee7e65cbaf0703b4a1f1a7cc
+2.项目环境配置参考视频：https://www.bilibili.com/video/BV1a94y1H7ce/?spm_id_from=333.337.search-card.all.click&vd_source=d410e9caee7e65cbaf0703b4a1f1a7cc
