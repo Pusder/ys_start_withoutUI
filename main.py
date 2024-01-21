@@ -1,4 +1,4 @@
-from record import *
+from pkg_fuctions.record import *
 
 
 if __name__ == '__main__':
